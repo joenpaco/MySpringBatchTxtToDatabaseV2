@@ -1,0 +1,6 @@
+config\PersistenceConfig.class
+config\ResourceNames.class
+models\Src_sapfisaldosItemPreparedStatementSetter.class
+models\Src_sapfisaldos.class
+config\BatchConfig.class
+main\Main.class
